@@ -1,0 +1,11 @@
+{
+  "name": "agenda-de-contatos",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "main": "index.js",
+  "author": "Brenda Mota",
+  "license": "MIT"
+}
