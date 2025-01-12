@@ -5,6 +5,7 @@
   "scripts": {
     "start": "node --watch index.js"
   },
+  "type": "module",
   "main": "index.js",
   "author": "Brenda Mota",
   "license": "MIT"
